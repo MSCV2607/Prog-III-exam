@@ -1,0 +1,7 @@
+C:\Users\mauro\OneDrive\Escritorio\C#LAB\Entrega\Fecha\Fecha\bin\Debug\Fecha.exe.config
+C:\Users\mauro\OneDrive\Escritorio\C#LAB\Entrega\Fecha\Fecha\bin\Debug\Fecha.exe
+C:\Users\mauro\OneDrive\Escritorio\C#LAB\Entrega\Fecha\Fecha\bin\Debug\Fecha.pdb
+C:\Users\mauro\OneDrive\Escritorio\C#LAB\Entrega\Fecha\Fecha\obj\Debug\Fecha.csproj.AssemblyReference.cache
+C:\Users\mauro\OneDrive\Escritorio\C#LAB\Entrega\Fecha\Fecha\obj\Debug\Fecha.csproj.CoreCompileInputs.cache
+C:\Users\mauro\OneDrive\Escritorio\C#LAB\Entrega\Fecha\Fecha\obj\Debug\Fecha.exe
+C:\Users\mauro\OneDrive\Escritorio\C#LAB\Entrega\Fecha\Fecha\obj\Debug\Fecha.pdb

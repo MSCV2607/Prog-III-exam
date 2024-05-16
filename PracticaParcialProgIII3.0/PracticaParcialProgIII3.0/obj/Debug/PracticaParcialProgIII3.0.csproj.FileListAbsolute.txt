@@ -1,0 +1,7 @@
+C:\Users\mauro\OneDrive\Escritorio\C#LAB\Entrega\PracticaParcialProgIII3.0\PracticaParcialProgIII3.0\bin\Debug\PracticaParcialProgIII3.0.exe.config
+C:\Users\mauro\OneDrive\Escritorio\C#LAB\Entrega\PracticaParcialProgIII3.0\PracticaParcialProgIII3.0\bin\Debug\PracticaParcialProgIII3.0.exe
+C:\Users\mauro\OneDrive\Escritorio\C#LAB\Entrega\PracticaParcialProgIII3.0\PracticaParcialProgIII3.0\bin\Debug\PracticaParcialProgIII3.0.pdb
+C:\Users\mauro\OneDrive\Escritorio\C#LAB\Entrega\PracticaParcialProgIII3.0\PracticaParcialProgIII3.0\obj\Debug\PracticaParcialProgIII3.0.csproj.AssemblyReference.cache
+C:\Users\mauro\OneDrive\Escritorio\C#LAB\Entrega\PracticaParcialProgIII3.0\PracticaParcialProgIII3.0\obj\Debug\PracticaParcialProgIII3.0.csproj.CoreCompileInputs.cache
+C:\Users\mauro\OneDrive\Escritorio\C#LAB\Entrega\PracticaParcialProgIII3.0\PracticaParcialProgIII3.0\obj\Debug\PracticaParcialProgIII3.0.exe
+C:\Users\mauro\OneDrive\Escritorio\C#LAB\Entrega\PracticaParcialProgIII3.0\PracticaParcialProgIII3.0\obj\Debug\PracticaParcialProgIII3.0.pdb

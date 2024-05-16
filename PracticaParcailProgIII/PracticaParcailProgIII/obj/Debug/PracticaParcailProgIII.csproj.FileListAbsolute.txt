@@ -1,0 +1,7 @@
+C:\Users\mauro\OneDrive\Escritorio\C#LAB\Entrega\PracticaParcailProgIII\PracticaParcailProgIII\bin\Debug\PracticaParcailProgIII.exe.config
+C:\Users\mauro\OneDrive\Escritorio\C#LAB\Entrega\PracticaParcailProgIII\PracticaParcailProgIII\bin\Debug\PracticaParcailProgIII.exe
+C:\Users\mauro\OneDrive\Escritorio\C#LAB\Entrega\PracticaParcailProgIII\PracticaParcailProgIII\bin\Debug\PracticaParcailProgIII.pdb
+C:\Users\mauro\OneDrive\Escritorio\C#LAB\Entrega\PracticaParcailProgIII\PracticaParcailProgIII\obj\Debug\PracticaParcailProgIII.csproj.AssemblyReference.cache
+C:\Users\mauro\OneDrive\Escritorio\C#LAB\Entrega\PracticaParcailProgIII\PracticaParcailProgIII\obj\Debug\PracticaParcailProgIII.csproj.CoreCompileInputs.cache
+C:\Users\mauro\OneDrive\Escritorio\C#LAB\Entrega\PracticaParcailProgIII\PracticaParcailProgIII\obj\Debug\PracticaParcailProgIII.exe
+C:\Users\mauro\OneDrive\Escritorio\C#LAB\Entrega\PracticaParcailProgIII\PracticaParcailProgIII\obj\Debug\PracticaParcailProgIII.pdb
